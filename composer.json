@@ -1,0 +1,17 @@
+{
+    "name": "Kiet-Thu_Huy",
+    "description": "PHP BLOG",
+    "type": "project",
+    "require": {
+        "symfony/http-foundation": "3.1.6",
+        "firebase/php-jwt": "^4.0",
+        "vlucas/phpdotenv": "^2.4"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kiet Nguyen",
+            "email": "nguyenhoanganhkiet@gmail.com"
+        }
+    ]
+}
